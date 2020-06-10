@@ -1,0 +1,19 @@
+2019-08-23 23:17:38.6845|INFO|YukiNet.PackageParser.PackageParser|Scanned 9 packagetypes
+2019-08-23 23:17:39.1231|INFO|YukiNet.Server.ServerPackageDispatcher|Dispatcher Started...
+2019-08-23 23:17:39.2102|INFO|MainServer.Serivces.NetworkService|NetworkSerivce.receivePackage thread Sucessfully started
+2019-08-23 23:17:39.2447|INFO|MainServer.Serivces.NetworkService|NetworkSerivce Sucessfully started
+2019-08-23 23:19:04.1523|INFO|YukiNet.PackageParser.PackageParser|Scanned 9 packagetypes
+2019-08-23 23:19:04.4058|INFO|YukiNet.Server.ServerPackageDispatcher|Dispatcher Started...
+2019-08-23 23:19:04.4840|INFO|MainServer.Serivces.NetworkService|NetworkSerivce.receivePackage thread Sucessfully started
+2019-08-23 23:19:04.4922|INFO|MainServer.Serivces.NetworkService|NetworkSerivce Sucessfully started
+2019-08-23 23:19:04.9188|INFO|MainServer.Services.WorldServerRegistrationService|World Server Registration Service started sucessfully
+2019-08-23 23:22:25.2663|INFO|YukiNet.PackageParser.PackageParser|Scanned 9 packagetypes
+2019-08-23 23:22:25.4729|INFO|YukiNet.Server.ServerPackageDispatcher|Dispatcher Started...
+2019-08-23 23:22:25.5555|INFO|MainServer.Serivces.NetworkService|NetworkSerivce.receivePackage thread Sucessfully started
+2019-08-23 23:22:25.5555|INFO|MainServer.Serivces.NetworkService|NetworkSerivce Sucessfully started
+2019-08-23 23:22:46.1638|INFO|MainServer.Services.WorldServerRegistrationService|World Server Registration Service started sucessfully on Port: 8888
+2019-08-23 23:28:26.6917|INFO|YukiNet.PackageParser.PackageParser|Scanned 9 packagetypes
+2019-08-23 23:28:26.8766|INFO|YukiNet.Server.ServerPackageDispatcher|Dispatcher Started...
+2019-08-23 23:28:26.9189|INFO|MainServer.Serivces.NetworkService|NetworkSerivce.receivePackage thread Sucessfully started
+2019-08-23 23:28:26.9189|INFO|MainServer.Serivces.NetworkService|NetworkSerivce Sucessfully started
+2019-08-23 23:28:31.2259|INFO|MainServer.Services.WorldServerRegistrationService|World Server Registration Service started sucessfully on Port: 8888

@@ -1,0 +1,63 @@
+2018-11-14 22:15:21.8794|INFO|YukiNet.PackageParser.PackageParser|Scanned 2 packagetypes
+2018-11-14 22:15:22.0527|INFO|YukiNet.PackageParser.PackageParser|write packge from stream type: YukiNet.PackageParser.PackageImplementaions.LoginRequestPackage
+2018-11-14 22:15:22.0896|INFO|YukiNet.PackageParser.PackageParser|Received packge from stream type: YukiNet.PackageParser.PackageImplementaions.LoginResponsePackage
+2018-11-14 22:18:58.1150|INFO|YukiNet.PackageParser.PackageParser|Scanned 2 packagetypes
+2018-11-14 22:18:58.3424|INFO|TestConsoleApp.TestClient|Build test connection
+2018-11-14 22:18:58.3458|INFO|TestConsoleApp.TestClient|Create Streams
+2018-11-14 22:18:58.3458|INFO|TestConsoleApp.TestClient|Write Login packages
+2018-11-14 22:18:58.3458|INFO|YukiNet.PackageParser.PackageParser|write packge from stream type: YukiNet.PackageParser.PackageImplementaions.LoginRequestPackage
+2018-11-14 22:18:58.3458|INFO|TestConsoleApp.TestClient|Receive Login response packages
+2018-11-14 22:18:58.4699|INFO|YukiNet.PackageParser.PackageParser|Received packge from stream type: YukiNet.PackageParser.PackageImplementaions.LoginResponsePackage
+2018-11-14 22:18:58.4699|INFO|TestConsoleApp.TestClient|Receive Login response packages TYPE: YukiNet.PackageParser.PackageImplementaions.LoginResponsePackage RESULT: True
+2018-11-14 22:42:42.7995|INFO|YukiNet.PackageParser.PackageParser|Scanned 2 packagetypes
+2018-11-14 22:42:43.0134|INFO|TestConsoleApp.TestClient|Build test connection
+2018-11-14 22:42:43.0134|INFO|TestConsoleApp.TestClient|Create Streams
+2018-11-14 22:42:43.0134|INFO|TestConsoleApp.TestClient|Write Login packages
+2018-11-14 22:42:43.0173|INFO|YukiNet.PackageParser.PackageParser|write packge from stream type: YukiNet.PackageParser.PackageImplementaions.LoginRequestPackage
+2018-11-14 22:42:43.0173|INFO|TestConsoleApp.TestClient|Receive Login response packages
+2018-11-14 22:43:25.1468|INFO|YukiNet.PackageParser.PackageParser|Scanned 2 packagetypes
+2018-11-14 22:43:25.4572|INFO|TestConsoleApp.TestClient|Build test connection
+2018-11-14 22:43:25.4572|INFO|TestConsoleApp.TestClient|Create Streams
+2018-11-14 22:43:25.4572|INFO|TestConsoleApp.TestClient|Write Login packages
+2018-11-14 22:43:25.4572|INFO|YukiNet.PackageParser.PackageParser|write packge from stream type: YukiNet.PackageParser.PackageImplementaions.LoginRequestPackage
+2018-11-14 22:43:25.4572|INFO|TestConsoleApp.TestClient|Receive Login response packages
+2018-11-14 22:58:22.2174|INFO|YukiNet.PackageParser.PackageParser|Scanned 2 packagetypes
+2018-11-14 22:58:22.4941|INFO|TestConsoleApp.TestClient|Build test connection
+2018-11-14 22:58:22.4941|INFO|TestConsoleApp.TestClient|Create Streams
+2018-11-14 22:58:22.4941|INFO|TestConsoleApp.TestClient|Write Login packages
+2018-11-14 22:58:22.4941|INFO|YukiNet.PackageParser.PackageParser|write packge from stream type: YukiNet.PackageParser.PackageImplementaions.LoginRequestPackage
+2018-11-14 22:58:22.5026|INFO|TestConsoleApp.TestClient|Receive Login response packages
+2018-11-14 22:58:22.6401|INFO|YukiNet.PackageParser.PackageParser|Received packge from stream type: YukiNet.PackageParser.PackageImplementaions.LoginResponsePackage
+2018-11-14 22:58:22.6515|INFO|TestConsoleApp.TestClient|Receive Login response packages TYPE: YukiNet.PackageParser.PackageImplementaions.LoginResponsePackage RESULT: True
+2018-11-14 22:58:59.6257|INFO|YukiNet.PackageParser.PackageParser|Scanned 2 packagetypes
+2018-11-14 22:58:59.9256|INFO|TestConsoleApp.TestClient|Build test connection
+2018-11-14 22:58:59.9256|INFO|TestConsoleApp.TestClient|Create Streams
+2018-11-14 22:58:59.9256|INFO|TestConsoleApp.TestClient|Write Login packages
+2018-11-14 22:58:59.9256|INFO|YukiNet.PackageParser.PackageParser|write packge from stream type: YukiNet.PackageParser.PackageImplementaions.LoginRequestPackage
+2018-11-14 22:58:59.9256|INFO|TestConsoleApp.TestClient|Receive Login response packages
+2018-11-14 22:59:08.9318|INFO|YukiNet.PackageParser.PackageParser|Received packge from stream type: YukiNet.PackageParser.PackageImplementaions.LoginResponsePackage
+2018-11-14 22:59:08.9318|INFO|TestConsoleApp.TestClient|Receive Login response packages TYPE: YukiNet.PackageParser.PackageImplementaions.LoginResponsePackage RESULT: True
+2018-11-14 23:02:15.3322|INFO|YukiNet.PackageParser.PackageParser|Scanned 2 packagetypes
+2018-11-14 23:02:15.6727|INFO|TestConsoleApp.TestClient|Build test connection
+2018-11-14 23:02:15.6767|INFO|TestConsoleApp.TestClient|Create Streams
+2018-11-14 23:02:15.6767|INFO|TestConsoleApp.TestClient|Write Login packages
+2018-11-14 23:02:15.6767|INFO|YukiNet.PackageParser.PackageParser|write packge from stream type: YukiNet.PackageParser.PackageImplementaions.LoginRequestPackage
+2018-11-14 23:02:15.6767|INFO|TestConsoleApp.TestClient|Receive Login response packages
+2018-11-14 23:02:15.8455|INFO|YukiNet.PackageParser.PackageParser|Received packge from stream type: YukiNet.PackageParser.PackageImplementaions.LoginResponsePackage
+2018-11-14 23:02:15.8455|INFO|TestConsoleApp.TestClient|Receive Login response packages TYPE: YukiNet.PackageParser.PackageImplementaions.LoginResponsePackage RESULT: True
+2018-11-14 23:08:54.6769|INFO|YukiNet.PackageParser.PackageParser|Scanned 3 packagetypes
+2018-11-14 23:08:54.9648|INFO|TestConsoleApp.TestClient|Build test connection
+2018-11-14 23:08:54.9648|INFO|TestConsoleApp.TestClient|Create Streams
+2018-11-14 23:08:54.9698|INFO|TestConsoleApp.TestClient|Write Login packages
+2018-11-14 23:08:54.9698|INFO|YukiNet.PackageParser.PackageParser|write packge from stream type: YukiNet.PackageParser.PackageImplementaions.LoginRequestPackage
+2018-11-14 23:08:54.9698|INFO|TestConsoleApp.TestClient|Receive Login response packages
+2018-11-14 23:08:55.1053|INFO|YukiNet.PackageParser.PackageParser|Received packge from stream type: YukiNet.PackageParser.PackageImplementaions.LoginResponsePackage
+2018-11-14 23:08:55.1053|INFO|TestConsoleApp.TestClient|Receive Login response packages TYPE: YukiNet.PackageParser.PackageImplementaions.LoginResponsePackage RESULT: True
+2018-11-14 23:26:30.6595|INFO|YukiNet.PackageParser.PackageParser|Scanned 3 packagetypes
+2018-11-14 23:26:31.0454|INFO|TestConsoleApp.TestClient|Build test connection
+2018-11-14 23:26:31.0488|INFO|TestConsoleApp.TestClient|Create Streams
+2018-11-14 23:26:31.0488|INFO|TestConsoleApp.TestClient|Write Login packages
+2018-11-14 23:26:31.0488|INFO|YukiNet.PackageParser.PackageParser|write packge from stream type: YukiNet.PackageParser.PackageImplementaions.LoginRequestPackage
+2018-11-14 23:26:31.0488|INFO|TestConsoleApp.TestClient|Receive Login response packages
+2018-11-14 23:26:31.1804|INFO|YukiNet.PackageParser.PackageParser|Received packge from stream type: YukiNet.PackageParser.PackageImplementaions.LoginResponsePackage
+2018-11-14 23:26:31.1804|INFO|TestConsoleApp.TestClient|Receive Login response packages TYPE: YukiNet.PackageParser.PackageImplementaions.LoginResponsePackage RESULT: True

@@ -1,0 +1,29 @@
+Roadmap 
+--------------------------------------------------------
+
+
+ToDo :
+
+[ ]  Worldserver Connection Thru Websockets .. ---> Add a List to Masterserver with Ports and IPs.. then Ping with websockets and Check if Worldserver is Online...
+
+[ ] Add UDP Connection From Client to Server 
+
+[ ] Add Pluginsystem
+
+[ ] Add Worldserver physics 
+
+[ ] Add CommandSystem to use commands in Console or later on for WebInterface
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------
+[ ] Add Yukinet into Nuget
+[ ] Add Yukinet into Unity Asset Store
+

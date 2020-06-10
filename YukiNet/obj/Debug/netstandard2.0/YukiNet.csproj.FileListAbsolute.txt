@@ -1,0 +1,60 @@
+F:\GameDev\new\2018\YukiNet2.0\branches\YukiNet\bin\Debug\netstandard2.0\YukiNet.deps.json
+F:\GameDev\new\2018\YukiNet2.0\branches\YukiNet\bin\Debug\netstandard2.0\YukiNet.dll
+F:\GameDev\new\2018\YukiNet2.0\branches\YukiNet\obj\Debug\netstandard2.0\YukiNet.csprojAssemblyReference.cache
+F:\GameDev\new\2018\YukiNet2.0\branches\YukiNet\obj\Debug\netstandard2.0\YukiNet.csproj.CoreCompileInputs.cache
+F:\GameDev\new\2018\YukiNet2.0\branches\YukiNet\obj\Debug\netstandard2.0\YukiNet.AssemblyInfoInputs.cache
+F:\GameDev\new\2018\YukiNet2.0\branches\YukiNet\obj\Debug\netstandard2.0\YukiNet.AssemblyInfo.cs
+F:\GameDev\new\2018\YukiNet2.0\branches\YukiNet\bin\Debug\netstandard2.0\YukiNet.pdb
+F:\GameDev\new\2018\YukiNet2.0\branches\YukiNet\obj\Debug\netstandard2.0\YukiNet.dll
+F:\GameDev\new\2018\YukiNet2.0\branches\YukiNet\obj\Debug\netstandard2.0\YukiNet.pdb
+F:\GameDev\new\2018\YukiNet2.0\branches\YukiNet\bin\Debug\netstandard2.0\config.json
+D:\Workspace\2018\new\Dark Age of Universe\branches\YukiNet\bin\Debug\netstandard2.0\config.json
+D:\Workspace\2018\new\Dark Age of Universe\branches\YukiNet\bin\Debug\netstandard2.0\YukiNet.deps.json
+D:\Workspace\2018\new\Dark Age of Universe\branches\YukiNet\bin\Debug\netstandard2.0\YukiNet.dll
+D:\Workspace\2018\new\Dark Age of Universe\branches\YukiNet\bin\Debug\netstandard2.0\YukiNet.pdb
+D:\Workspace\2018\new\Dark Age of Universe\branches\YukiNet\obj\Debug\netstandard2.0\YukiNet.csprojAssemblyReference.cache
+D:\Workspace\2018\new\Dark Age of Universe\branches\YukiNet\obj\Debug\netstandard2.0\YukiNet.csproj.CoreCompileInputs.cache
+D:\Workspace\2018\new\Dark Age of Universe\branches\YukiNet\obj\Debug\netstandard2.0\YukiNet.AssemblyInfoInputs.cache
+D:\Workspace\2018\new\Dark Age of Universe\branches\YukiNet\obj\Debug\netstandard2.0\YukiNet.AssemblyInfo.cs
+D:\Workspace\2018\new\Dark Age of Universe\branches\YukiNet\obj\Debug\netstandard2.0\YukiNet.dll
+D:\Workspace\2018\new\Dark Age of Universe\branches\YukiNet\obj\Debug\netstandard2.0\YukiNet.pdb
+F:\GameDev\new\2018\DarkAgeOfUniverse\YukiNet\bin\Debug\netstandard2.0\config.json
+F:\GameDev\new\2018\DarkAgeOfUniverse\YukiNet\bin\Debug\netstandard2.0\YukiNet.deps.json
+F:\GameDev\new\2018\DarkAgeOfUniverse\YukiNet\bin\Debug\netstandard2.0\YukiNet.dll
+F:\GameDev\new\2018\DarkAgeOfUniverse\YukiNet\bin\Debug\netstandard2.0\YukiNet.pdb
+F:\GameDev\new\2018\DarkAgeOfUniverse\YukiNet\obj\Debug\netstandard2.0\YukiNet.csproj.CoreCompileInputs.cache
+F:\GameDev\new\2018\DarkAgeOfUniverse\YukiNet\obj\Debug\netstandard2.0\YukiNet.AssemblyInfoInputs.cache
+F:\GameDev\new\2018\DarkAgeOfUniverse\YukiNet\obj\Debug\netstandard2.0\YukiNet.AssemblyInfo.cs
+F:\GameDev\new\2018\DarkAgeOfUniverse\YukiNet\obj\Debug\netstandard2.0\YukiNet.dll
+F:\GameDev\new\2018\DarkAgeOfUniverse\YukiNet\obj\Debug\netstandard2.0\YukiNet.pdb
+F:\GameDev\new\2018\DarkAgeOfUniverse\YukiNet\obj\Debug\netstandard2.0\YukiNet.csprojAssemblyReference.cache
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\YukiNet\bin\Debug\netstandard2.0\config.json
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\YukiNet\bin\Debug\netstandard2.0\YukiNet.deps.json
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\YukiNet\bin\Debug\netstandard2.0\YukiNet.dll
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\YukiNet\bin\Debug\netstandard2.0\YukiNet.pdb
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\YukiNet\obj\Debug\netstandard2.0\YukiNet.csproj.CoreCompileInputs.cache
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\YukiNet\obj\Debug\netstandard2.0\YukiNet.AssemblyInfoInputs.cache
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\YukiNet\obj\Debug\netstandard2.0\YukiNet.AssemblyInfo.cs
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\YukiNet\obj\Debug\netstandard2.0\YukiNet.dll
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\YukiNet\obj\Debug\netstandard2.0\YukiNet.pdb
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\YukiNet\obj\Debug\netstandard2.0\YukiNet.csprojAssemblyReference.cache
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\YukiNet\bin\Debug\netstandard2.0\config.json
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\YukiNet\bin\Debug\netstandard2.0\worldserver\json\worldserver.json
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\YukiNet\bin\Debug\netstandard2.0\YukiNet.deps.json
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\YukiNet\bin\Debug\netstandard2.0\YukiNet.dll
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\YukiNet\bin\Debug\netstandard2.0\YukiNet.pdb
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\YukiNet\obj\Debug\netstandard2.0\YukiNet.csprojAssemblyReference.cache
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\YukiNet\obj\Debug\netstandard2.0\YukiNet.AssemblyInfoInputs.cache
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\YukiNet\obj\Debug\netstandard2.0\YukiNet.AssemblyInfo.cs
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\YukiNet\obj\Debug\netstandard2.0\YukiNet.dll
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\YukiNet\obj\Debug\netstandard2.0\YukiNet.pdb
+Z:\Workspace\GameDev\new\2019\Yukisystems\YukiNet\yukinet\YukiNet\bin\Debug\netstandard2.0\config.json
+Z:\Workspace\GameDev\new\2019\Yukisystems\YukiNet\yukinet\YukiNet\bin\Debug\netstandard2.0\worldserver\json\worldserver.json
+Z:\Workspace\GameDev\new\2019\Yukisystems\YukiNet\yukinet\YukiNet\bin\Debug\netstandard2.0\YukiNet.deps.json
+Z:\Workspace\GameDev\new\2019\Yukisystems\YukiNet\yukinet\YukiNet\bin\Debug\netstandard2.0\YukiNet.dll
+Z:\Workspace\GameDev\new\2019\Yukisystems\YukiNet\yukinet\YukiNet\bin\Debug\netstandard2.0\YukiNet.pdb
+Z:\Workspace\GameDev\new\2019\Yukisystems\YukiNet\yukinet\YukiNet\obj\Debug\netstandard2.0\YukiNet.csprojAssemblyReference.cache
+Z:\Workspace\GameDev\new\2019\Yukisystems\YukiNet\yukinet\YukiNet\obj\Debug\netstandard2.0\YukiNet.AssemblyInfoInputs.cache
+Z:\Workspace\GameDev\new\2019\Yukisystems\YukiNet\yukinet\YukiNet\obj\Debug\netstandard2.0\YukiNet.AssemblyInfo.cs
+Z:\Workspace\GameDev\new\2019\Yukisystems\YukiNet\yukinet\YukiNet\obj\Debug\netstandard2.0\YukiNet.dll
+Z:\Workspace\GameDev\new\2019\Yukisystems\YukiNet\yukinet\YukiNet\obj\Debug\netstandard2.0\YukiNet.pdb

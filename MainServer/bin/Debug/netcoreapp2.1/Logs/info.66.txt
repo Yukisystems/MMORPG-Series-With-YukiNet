@@ -1,0 +1,62 @@
+2019-10-12 07:15:21.4007|INFO|YukiNet.PackageParser.PackageParser|Scanned 9 packagetypes
+2019-10-12 07:15:38.3523|INFO|YukiNet.Server.ServerPackageDispatcher|Dispatcher Started...
+2019-10-12 07:16:08.9840|INFO|YukiNet.PackageParser.PackageParser|Scanned 9 packagetypes
+2019-10-12 07:16:09.3930|INFO|YukiNet.Server.ServerPackageDispatcher|Dispatcher Started...
+2019-10-12 07:16:09.4497|INFO|MainServer.Serivces.NetworkService|NetworkSerivce.receivePackage thread Sucessfully started
+2019-10-12 07:16:09.4497|INFO|MainServer.Services.WorldServerRegistrationService|WorldServerRegistrationService sucessfully started
+2019-10-12 07:16:09.4497|INFO|MainServer.Serivces.NetworkService|NetworkSerivce Sucessfully started
+2019-10-12 07:17:03.5955|INFO|YukiNet.PackageParser.PackageParser|Scanned 9 packagetypes
+2019-10-12 07:17:03.7624|INFO|YukiNet.Server.ServerPackageDispatcher|Dispatcher Started...
+2019-10-12 07:17:03.8174|INFO|MainServer.Serivces.NetworkService|NetworkSerivce Sucessfully started
+2019-10-12 07:17:03.8174|INFO|MainServer.Serivces.NetworkService|NetworkSerivce.receivePackage thread Sucessfully started
+2019-10-12 07:17:03.8761|INFO|MainServer.Services.WorldServerRegistrationService|WorldServerRegistrationService sucessfully started
+2019-10-12 07:18:44.9269|INFO|YukiNet.PackageParser.PackageParser|Scanned 9 packagetypes
+2019-10-12 07:18:45.1160|INFO|YukiNet.Server.ServerPackageDispatcher|Dispatcher Started...
+2019-10-12 07:18:45.1652|INFO|MainServer.Serivces.NetworkService|NetworkSerivce Sucessfully started
+2019-10-12 07:18:45.1652|INFO|MainServer.Serivces.NetworkService|NetworkSerivce.receivePackage thread Sucessfully started
+2019-10-12 07:18:45.2391|INFO|MainServer.Services.WorldServerRegistrationService|WorldServerRegistrationService sucessfully started
+2019-10-12 07:19:31.5149|INFO|YukiNet.PackageParser.PackageParser|Scanned 9 packagetypes
+2019-10-12 07:19:31.6710|INFO|YukiNet.Server.ServerPackageDispatcher|Dispatcher Started...
+2019-10-12 07:19:31.7201|INFO|MainServer.Serivces.NetworkService|NetworkSerivce Sucessfully started
+2019-10-12 07:19:31.7201|INFO|MainServer.Serivces.NetworkService|NetworkSerivce.receivePackage thread Sucessfully started
+2019-10-12 07:19:31.7818|INFO|MainServer.Services.WorldServerRegistrationService|WorldServerRegistrationService sucessfully started
+2019-10-12 07:20:22.9063|INFO|YukiNet.PackageParser.PackageParser|Scanned 9 packagetypes
+2019-10-12 07:20:23.0968|INFO|YukiNet.Server.ServerPackageDispatcher|Dispatcher Started...
+2019-10-12 07:20:23.2024|INFO|MainServer.Serivces.NetworkService|NetworkSerivce.receivePackage thread Sucessfully started
+2019-10-12 07:20:23.2024|INFO|MainServer.Serivces.NetworkService|NetworkSerivce Sucessfully started
+2019-10-12 07:20:23.2868|INFO|MainServer.Services.WorldServerRegistrationService|WorldServerRegistrationService sucessfully started
+2019-10-12 07:55:19.6361|INFO|YukiNet.PackageParser.PackageParser|Scanned 9 packagetypes
+2019-10-12 07:55:19.8581|INFO|YukiNet.Server.ServerPackageDispatcher|Dispatcher Started...
+2019-10-12 07:55:19.9096|INFO|MainServer.Serivces.NetworkService|NetworkSerivce Sucessfully started
+2019-10-12 07:55:19.9096|INFO|MainServer.Serivces.NetworkService|NetworkSerivce.receivePackage thread Sucessfully started
+2019-10-12 07:55:19.9728|INFO|MainServer.Services.WebsocketServer.WorldserverRegistrationService|WorldServerRegistrationService sucessfully started
+2019-10-12 07:59:01.3118|INFO|YukiNet.PackageParser.PackageParser|Scanned 9 packagetypes
+2019-10-12 07:59:01.4840|INFO|YukiNet.Server.ServerPackageDispatcher|Dispatcher Started...
+2019-10-12 07:59:01.5322|INFO|MainServer.Serivces.NetworkService|NetworkSerivce Sucessfully started
+2019-10-12 07:59:01.5322|INFO|MainServer.Serivces.NetworkService|NetworkSerivce.receivePackage thread Sucessfully started
+2019-10-12 07:59:01.6451|INFO|MainServer.Services.WebsocketServer.WorldserverRegistrationService|WorldServerRegistrationService sucessfully started
+2019-10-12 08:02:28.7540|INFO|YukiNet.PackageParser.PackageParser|Scanned 9 packagetypes
+2019-10-12 08:02:28.9637|INFO|YukiNet.Server.ServerPackageDispatcher|Dispatcher Started...
+2019-10-12 08:02:29.0170|INFO|MainServer.Serivces.NetworkService|NetworkSerivce Sucessfully started
+2019-10-12 08:02:29.0170|INFO|MainServer.Serivces.NetworkService|NetworkSerivce.receivePackage thread Sucessfully started
+2019-10-12 08:02:29.1499|INFO|MainServer.Services.WebsocketServer.WorldserverRegistrationService|WorldServerRegistrationService sucessfully started
+2019-10-12 08:03:42.6624|INFO|YukiNet.PackageParser.PackageParser|Scanned 9 packagetypes
+2019-10-12 08:03:42.8490|INFO|YukiNet.Server.ServerPackageDispatcher|Dispatcher Started...
+2019-10-12 08:03:42.9254|INFO|MainServer.Serivces.NetworkService|NetworkSerivce.receivePackage thread Sucessfully started
+2019-10-12 08:03:42.9254|INFO|MainServer.Serivces.NetworkService|NetworkSerivce Sucessfully started
+2019-10-12 08:03:42.9902|INFO|MainServer.Services.WebsocketServer.WorldserverRegistrationService|WorldServerRegistrationService sucessfully started
+2019-10-12 08:07:18.0243|INFO|YukiNet.PackageParser.PackageParser|Scanned 9 packagetypes
+2019-10-12 08:07:18.2351|INFO|YukiNet.Server.ServerPackageDispatcher|Dispatcher Started...
+2019-10-12 08:07:18.3359|INFO|MainServer.Serivces.NetworkService|NetworkSerivce Sucessfully started
+2019-10-12 08:07:18.3343|INFO|MainServer.Serivces.NetworkService|NetworkSerivce.receivePackage thread Sucessfully started
+2019-10-12 08:07:18.4153|INFO|MainServer.Services.WebsocketServer.WorldserverRegistrationService|WorldServerRegistrationService sucessfully started
+2019-10-12 08:09:46.8250|INFO|YukiNet.PackageParser.PackageParser|Scanned 9 packagetypes
+2019-10-12 08:09:47.0645|INFO|YukiNet.Server.ServerPackageDispatcher|Dispatcher Started...
+2019-10-12 08:09:47.1256|INFO|MainServer.Serivces.NetworkService|NetworkSerivce.receivePackage thread Sucessfully started
+2019-10-12 08:09:47.1256|INFO|MainServer.Serivces.NetworkService|NetworkSerivce Sucessfully started
+2019-10-12 08:09:47.2875|INFO|MainServer.Services.WebsocketServer.WorldserverRegistrationService|WorldServerRegistrationService sucessfully started
+2019-10-12 08:15:17.6519|INFO|YukiNet.PackageParser.PackageParser|Scanned 9 packagetypes
+2019-10-12 08:15:17.8364|INFO|YukiNet.Server.ServerPackageDispatcher|Dispatcher Started...
+2019-10-12 08:15:17.8875|INFO|MainServer.Serivces.NetworkService|NetworkSerivce Sucessfully started
+2019-10-12 08:15:17.8875|INFO|MainServer.Serivces.NetworkService|NetworkSerivce.receivePackage thread Sucessfully started
+2019-10-12 08:15:18.0202|INFO|MainServer.Services.WebsocketServer.WorldserverRegistrationService|WorldServerRegistrationService sucessfully started

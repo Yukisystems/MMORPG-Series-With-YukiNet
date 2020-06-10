@@ -1,0 +1,5 @@
+2019-09-26 04:16:04.3223|INFO|YukiNet.PackageParser.PackageParser|Scanned 9 packagetypes
+2019-09-26 04:16:04.9454|INFO|YukiNet.Server.ServerPackageDispatcher|Dispatcher Started...
+2019-09-26 04:16:05.0735|INFO|MainServer.Serivces.NetworkService|NetworkSerivce.receivePackage thread Sucessfully started
+2019-09-26 04:16:05.0735|INFO|MainServer.Serivces.NetworkService|NetworkSerivce Sucessfully started
+2019-09-26 04:16:05.3892|INFO|MainServer.Services.WorldServerRegistrationService|WorldServerRegistrationService sucessfully started

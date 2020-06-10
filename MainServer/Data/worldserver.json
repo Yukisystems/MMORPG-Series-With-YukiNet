@@ -1,0 +1,15 @@
+{
+  "WorldServer1": {
+    "host": "127.0.0.1",
+    "port": 9111
+  },
+
+  "WorldServer2": {
+    "host": "127.0.0.1",
+    "port": 1234
+  },
+  "WorldServer3": {
+    "host": "127.0.0.1",
+    "port": 2234
+  }
+}

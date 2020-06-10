@@ -1,0 +1,30 @@
+2019-06-20 14:22:41.8140|INFO|YukiNet.PackageParser.PackageParser|write packge from stream type: YukiNet.PackageParser.PackageImplementaions.KeepAlivePackage
+2019-06-20 14:22:57.4535|INFO|YukiNet.PackageParser.PackageParser|write packge from stream type: YukiNet.PackageParser.PackageImplementaions.KeepAlivePackage
+2019-06-20 14:23:13.0786|INFO|YukiNet.PackageParser.PackageParser|write packge from stream type: YukiNet.PackageParser.PackageImplementaions.KeepAlivePackage
+2019-06-20 14:23:53.8726|INFO|YukiNet.PackageParser.PackageParser|Scanned 9 packagetypes
+2019-06-20 14:23:53.9914|INFO|YukiNet.Server.ServerPackageDispatcher|Dispatcher Started...
+2019-06-20 14:23:54.0360|INFO|MainServer.Serivces.NetworkService|NetworkSerivce.receivePackage thread Sucessfully started
+2019-06-20 14:23:54.0360|INFO|MainServer.Serivces.NetworkService|NetworkSerivce Sucessfully started
+2019-06-20 14:24:01.1488|INFO|MainServer.Serivces.NetworkService|New Client connected Guid: 540ebdcb-05bf-4651-b744-00acf3d48fd4
+2019-06-20 14:24:08.2664|INFO|MainServer.Serivces.NetworkService|Packge from Client 540ebdcb-05bf-4651-b744-00acf3d48fd4
+2019-06-20 14:24:08.2664|INFO|YukiNet.PackageParser.PackageParser|Received packge from stream type: YukiNet.PackageParser.PackageImplementaions.LoginRequestPackage
+2019-06-20 14:24:08.2664|INFO|MainServer.ServerConnectionHandler|LOGIN REQUEST
+2019-06-20 14:24:08.9522|INFO|MainServer.Business.UserRepository|UserName Exists
+2019-06-20 14:24:09.7671|INFO|YukiNet.PackageParser.PackageParser|write packge from stream type: YukiNet.PackageParser.PackageImplementaions.KeepAlivePackage
+2019-06-20 14:24:09.9315|INFO|MainServer.Business.UserRepository|Password is Correct
+2019-06-20 14:24:09.9315|INFO|YukiNet.PackageParser.PackageParser|write packge from stream type: YukiNet.PackageParser.PackageImplementaions.LoginResponsePackage
+2019-06-20 14:24:11.2502|INFO|MainServer.Serivces.NetworkService|Packge from Client 540ebdcb-05bf-4651-b744-00acf3d48fd4
+2019-06-20 14:24:11.2502|INFO|YukiNet.PackageParser.PackageParser|Received packge from stream type: YukiNet.PackageParser.PackageImplementaions.RealmRequestPackage
+2019-06-20 14:24:11.2502|INFO|MainServer.ServerConnectionHandler|Race REQUEST
+2019-06-20 14:24:11.2502|INFO|YukiNet.PackageParser.PackageParser|write packge from stream type: YukiNet.PackageParser.PackageImplementaions.RealmResponsePackage
+2019-06-20 14:24:11.4221|INFO|MainServer.Serivces.NetworkService|Packge from Client 540ebdcb-05bf-4651-b744-00acf3d48fd4
+2019-06-20 14:24:11.4221|INFO|YukiNet.PackageParser.PackageParser|Received packge from stream type: YukiNet.PackageParser.PackageImplementaions.CharacterSelectionRequestPackage
+2019-06-20 14:24:11.4221|INFO|MainServer.ServerConnectionHandler|Char creation REQUEST from 1
+2019-06-20 14:24:15.2629|INFO|YukiNet.PackageParser.PackageParser|write packge from stream type: YukiNet.PackageParser.PackageImplementaions.CharacterSelectionResponsePackage
+2019-06-20 14:24:15.4375|INFO|MainServer.Serivces.NetworkService|Packge from Client 540ebdcb-05bf-4651-b744-00acf3d48fd4
+2019-06-20 14:24:15.4375|INFO|YukiNet.PackageParser.PackageParser|Received packge from stream type: YukiNet.PackageParser.PackageImplementaions.CharacterSelectionRequestPackage
+2019-06-20 14:24:15.4375|INFO|MainServer.ServerConnectionHandler|Char creation REQUEST from 1
+2019-06-20 14:24:16.1731|INFO|YukiNet.PackageParser.PackageParser|write packge from stream type: YukiNet.PackageParser.PackageImplementaions.CharacterSelectionResponsePackage
+2019-06-20 14:24:30.0786|INFO|YukiNet.PackageParser.PackageParser|write packge from stream type: YukiNet.PackageParser.PackageImplementaions.KeepAlivePackage
+2019-06-20 14:24:45.7351|INFO|YukiNet.PackageParser.PackageParser|write packge from stream type: YukiNet.PackageParser.PackageImplementaions.KeepAlivePackage
+2019-06-20 14:25:01.3596|INFO|YukiNet.PackageParser.PackageParser|write packge from stream type: YukiNet.PackageParser.PackageImplementaions.KeepAlivePackage

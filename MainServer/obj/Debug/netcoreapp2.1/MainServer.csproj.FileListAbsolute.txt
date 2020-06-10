@@ -1,0 +1,80 @@
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\MainServer\bin\Debug\netcoreapp2.1\MainServer.deps.json
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\MainServer\bin\Debug\netcoreapp2.1\MainServer.runtimeconfig.json
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\MainServer\bin\Debug\netcoreapp2.1\MainServer.runtimeconfig.dev.json
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\MainServer\bin\Debug\netcoreapp2.1\MainServer.dll
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\MainServer\bin\Debug\netcoreapp2.1\MainServer.pdb
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\MainServer\obj\Debug\netcoreapp2.1\MainServer.csprojAssemblyReference.cache
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\MainServer\obj\Debug\netcoreapp2.1\MainServer.csproj.CoreCompileInputs.cache
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\MainServer\obj\Debug\netcoreapp2.1\MainServer.AssemblyInfoInputs.cache
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\MainServer\obj\Debug\netcoreapp2.1\MainServer.AssemblyInfo.cs
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\MainServer\obj\Debug\netcoreapp2.1\MainServer.dll
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\MainServer\obj\Debug\netcoreapp2.1\MainServer.pdb
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\MainServer\bin\Debug\netcoreapp2.1\YukiNet.dll
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\MainServer\bin\Debug\netcoreapp2.1\YukiNet.pdb
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\MainServer\obj\Debug\netcoreapp2.1\MainServer.csproj.CopyComplete
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\MainServer\bin\Debug\netcoreapp2.1\config.json
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\MainServer\bin\Debug\netcoreapp2.1\NLog.config
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\MainServer\obj\Debug\netcoreapp2.1\MainServer.csprojAssemblyReference.cache
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\MainServer\obj\Debug\netcoreapp2.1\MainServer.csproj.CoreCompileInputs.cache
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\MainServer\obj\Debug\netcoreapp2.1\MainServer.AssemblyInfoInputs.cache
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\MainServer\obj\Debug\netcoreapp2.1\MainServer.AssemblyInfo.cs
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\MainServer\obj\Debug\netcoreapp2.1\MainServer.dll
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\MainServer\obj\Debug\netcoreapp2.1\MainServer.pdb
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\MainServer\bin\Debug\netcoreapp2.1\NLog.config
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\MainServer\bin\Debug\netcoreapp2.1\config.json
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\MainServer\bin\Debug\netcoreapp2.1\MainServer.deps.json
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\MainServer\bin\Debug\netcoreapp2.1\MainServer.runtimeconfig.json
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\MainServer\bin\Debug\netcoreapp2.1\MainServer.runtimeconfig.dev.json
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\MainServer\bin\Debug\netcoreapp2.1\MainServer.dll
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\MainServer\bin\Debug\netcoreapp2.1\MainServer.pdb
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\MainServer\bin\Debug\netcoreapp2.1\YukiNet.dll
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\MainServer\bin\Debug\netcoreapp2.1\YukiNet.pdb
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\MainServer\obj\Debug\netcoreapp2.1\MainServer.csproj.CopyComplete
+F:\GameDev\new\2018\DarkAgeOfUniverse\MainServer\bin\Debug\netcoreapp2.1\NLog.config
+F:\GameDev\new\2018\DarkAgeOfUniverse\MainServer\bin\Debug\netcoreapp2.1\config.json
+F:\GameDev\new\2018\DarkAgeOfUniverse\MainServer\bin\Debug\netcoreapp2.1\MainServer.deps.json
+F:\GameDev\new\2018\DarkAgeOfUniverse\MainServer\bin\Debug\netcoreapp2.1\MainServer.runtimeconfig.json
+F:\GameDev\new\2018\DarkAgeOfUniverse\MainServer\bin\Debug\netcoreapp2.1\MainServer.runtimeconfig.dev.json
+F:\GameDev\new\2018\DarkAgeOfUniverse\MainServer\bin\Debug\netcoreapp2.1\MainServer.dll
+F:\GameDev\new\2018\DarkAgeOfUniverse\MainServer\bin\Debug\netcoreapp2.1\MainServer.pdb
+F:\GameDev\new\2018\DarkAgeOfUniverse\MainServer\bin\Debug\netcoreapp2.1\YukiNet.dll
+F:\GameDev\new\2018\DarkAgeOfUniverse\MainServer\bin\Debug\netcoreapp2.1\YukiNet.pdb
+F:\GameDev\new\2018\DarkAgeOfUniverse\MainServer\obj\Debug\netcoreapp2.1\MainServer.csprojAssemblyReference.cache
+F:\GameDev\new\2018\DarkAgeOfUniverse\MainServer\obj\Debug\netcoreapp2.1\MainServer.csproj.CoreCompileInputs.cache
+F:\GameDev\new\2018\DarkAgeOfUniverse\MainServer\obj\Debug\netcoreapp2.1\MainServer.AssemblyInfoInputs.cache
+F:\GameDev\new\2018\DarkAgeOfUniverse\MainServer\obj\Debug\netcoreapp2.1\MainServer.AssemblyInfo.cs
+F:\GameDev\new\2018\DarkAgeOfUniverse\MainServer\obj\Debug\netcoreapp2.1\MainServer.csproj.CopyComplete
+F:\GameDev\new\2018\DarkAgeOfUniverse\MainServer\obj\Debug\netcoreapp2.1\MainServer.dll
+F:\GameDev\new\2018\DarkAgeOfUniverse\MainServer\obj\Debug\netcoreapp2.1\MainServer.pdb
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\MainServer\bin\Debug\netcoreapp2.1\NLog.config
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\MainServer\bin\Debug\netcoreapp2.1\config.json
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\MainServer\bin\Debug\netcoreapp2.1\MainServer.deps.json
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\MainServer\bin\Debug\netcoreapp2.1\MainServer.runtimeconfig.json
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\MainServer\bin\Debug\netcoreapp2.1\MainServer.runtimeconfig.dev.json
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\MainServer\bin\Debug\netcoreapp2.1\MainServer.dll
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\MainServer\bin\Debug\netcoreapp2.1\MainServer.pdb
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\MainServer\bin\Debug\netcoreapp2.1\YukiNet.dll
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\MainServer\bin\Debug\netcoreapp2.1\YukiNet.pdb
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\MainServer\obj\Debug\netcoreapp2.1\MainServer.csprojAssemblyReference.cache
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\MainServer\obj\Debug\netcoreapp2.1\MainServer.csproj.CoreCompileInputs.cache
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\MainServer\obj\Debug\netcoreapp2.1\MainServer.AssemblyInfoInputs.cache
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\MainServer\obj\Debug\netcoreapp2.1\MainServer.AssemblyInfo.cs
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\MainServer\obj\Debug\netcoreapp2.1\MainServer.csproj.CopyComplete
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\MainServer\obj\Debug\netcoreapp2.1\MainServer.dll
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\MainServer\obj\Debug\netcoreapp2.1\MainServer.pdb
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\MainServer\bin\Debug\netcoreapp2.1\YukiNet.dll
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\MainServer\obj\Debug\netcoreapp2.1\MainServer.csprojAssemblyReference.cache
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\MainServer\obj\Debug\netcoreapp2.1\MainServer.AssemblyInfoInputs.cache
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\MainServer\obj\Debug\netcoreapp2.1\MainServer.AssemblyInfo.cs
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\MainServer\bin\Debug\netcoreapp2.1\NLog.config
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\MainServer\bin\Debug\netcoreapp2.1\config.json
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\MainServer\bin\Debug\netcoreapp2.1\worldserver\json\worldserver.json
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\MainServer\bin\Debug\netcoreapp2.1\MainServer.deps.json
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\MainServer\bin\Debug\netcoreapp2.1\MainServer.runtimeconfig.json
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\MainServer\bin\Debug\netcoreapp2.1\MainServer.runtimeconfig.dev.json
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\MainServer\bin\Debug\netcoreapp2.1\MainServer.dll
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\MainServer\bin\Debug\netcoreapp2.1\MainServer.pdb
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\MainServer\bin\Debug\netcoreapp2.1\YukiNet.pdb
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\MainServer\obj\Debug\netcoreapp2.1\MainServer.csproj.CopyComplete
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\MainServer\obj\Debug\netcoreapp2.1\MainServer.dll
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\MainServer\obj\Debug\netcoreapp2.1\MainServer.pdb

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>YukiNet</id>
+    <version>1.0.0</version>
+    <authors>YukiNet</authors>
+    <owners>YukiNet</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE.md</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <projectUrl>https://yukinet.work/</projectUrl>
+    <description>YukiNet is a Networkframework for Games. First version only for Unity Engine.</description>
+    <tags>MMORPG, Network, Unity, UnrealEngine, Cryengine, games, Game, netzwerk, c#, csharp</tags>
+    <repository url="https://github.com/Thetutorialchef/YukiNet" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="BCrypt.Net-Core" version="1.6.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Console" version="2.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/netstandard2.0/config.json" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="Z:\Workspace\GameDev\new\2019\Yukisystems\YukiNet\yukinet\YukiNet\bin\Debug\netstandard2.0\YukiNet.dll" target="lib\netstandard2.0\YukiNet.dll" />
+    <file src="Z:\Workspace\GameDev\new\2019\Yukisystems\YukiNet\yukinet\YukiNet\config.json" target="content\config.json" />
+    <file src="Z:\Workspace\GameDev\new\2019\Yukisystems\YukiNet\yukinet\YukiNet\config.json" target="contentFiles\any\netstandard2.0\config.json" />
+    <file src="Z:\Workspace\GameDev\new\2019\Yukisystems\YukiNet\yukinet\YukiNet\LICENSE.md" target="LICENSE.md" />
+  </files>
+</package>

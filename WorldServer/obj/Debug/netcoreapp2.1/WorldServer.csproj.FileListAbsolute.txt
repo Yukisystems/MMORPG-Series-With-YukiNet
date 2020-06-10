@@ -1,0 +1,60 @@
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.deps.json
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.runtimeconfig.json
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.runtimeconfig.dev.json
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.dll
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.pdb
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.csprojAssemblyReference.cache
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.csproj.CoreCompileInputs.cache
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.AssemblyInfoInputs.cache
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.AssemblyInfo.cs
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.dll
+F:\GameDev\new\2018\YukiNet2.0\branches\Dark Age of Universe\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.pdb
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.deps.json
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.runtimeconfig.json
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.runtimeconfig.dev.json
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.dll
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.pdb
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.csprojAssemblyReference.cache
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.csproj.CoreCompileInputs.cache
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.AssemblyInfoInputs.cache
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.AssemblyInfo.cs
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.dll
+D:\Workspace\2018\new\Dark Age of Universe\branches\Dark Age of Universe\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.pdb
+F:\GameDev\new\2018\DarkAgeOfUniverse\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.deps.json
+F:\GameDev\new\2018\DarkAgeOfUniverse\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.runtimeconfig.json
+F:\GameDev\new\2018\DarkAgeOfUniverse\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.runtimeconfig.dev.json
+F:\GameDev\new\2018\DarkAgeOfUniverse\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.dll
+F:\GameDev\new\2018\DarkAgeOfUniverse\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.pdb
+F:\GameDev\new\2018\DarkAgeOfUniverse\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.csproj.CoreCompileInputs.cache
+F:\GameDev\new\2018\DarkAgeOfUniverse\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.AssemblyInfoInputs.cache
+F:\GameDev\new\2018\DarkAgeOfUniverse\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.AssemblyInfo.cs
+F:\GameDev\new\2018\DarkAgeOfUniverse\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.dll
+F:\GameDev\new\2018\DarkAgeOfUniverse\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.pdb
+F:\GameDev\new\2018\DarkAgeOfUniverse\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.csprojAssemblyReference.cache
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.deps.json
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.runtimeconfig.json
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.runtimeconfig.dev.json
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.dll
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.pdb
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.csproj.CoreCompileInputs.cache
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.AssemblyInfoInputs.cache
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.AssemblyInfo.cs
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.dll
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.pdb
+F:\GameDev\new\2018\DarkAgeOfUniverseNew\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.csprojAssemblyReference.cache
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.csprojAssemblyReference.cache
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.AssemblyInfoInputs.cache
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.AssemblyInfo.cs
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\WorldServer\bin\Debug\netcoreapp2.1\YukiNet.dll
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\WorldServer\bin\Debug\netcoreapp2.1\NLog.config
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\WorldServer\bin\Debug\netcoreapp2.1\config.json
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\WorldServer\bin\Debug\netcoreapp2.1\worldserver\json\worldserver.json
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.deps.json
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.runtimeconfig.json
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.runtimeconfig.dev.json
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.dll
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\WorldServer\bin\Debug\netcoreapp2.1\WorldServer.pdb
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\WorldServer\bin\Debug\netcoreapp2.1\YukiNet.pdb
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.csproj.CopyComplete
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.dll
+Z:\Workspace\GameDev\new\2019\Yukisystems\YUKIMMORPG\WorldServer\obj\Debug\netcoreapp2.1\WorldServer.pdb
